@@ -1,4 +1,4 @@
-package io.github.mocanjie.base.mycommon.exception;
+package io.github.canjiemo.mycommon.exception;
 
 public class AuthenticationException extends BaseException {
 

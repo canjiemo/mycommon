@@ -1,4 +1,4 @@
-package io.github.mocanjie.base.mycommon.pager;
+package io.github.canjiemo.mycommon.pager;
 
 /**
  * 分页参数基类

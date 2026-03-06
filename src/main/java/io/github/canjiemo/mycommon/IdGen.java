@@ -1,4 +1,4 @@
-package io.github.mocanjie.base.mycommon;
+package io.github.canjiemo.mycommon;
 
 import java.util.concurrent.locks.ReentrantLock;
 

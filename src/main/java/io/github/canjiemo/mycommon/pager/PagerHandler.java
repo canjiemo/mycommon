@@ -1,4 +1,4 @@
-package io.github.mocanjie.base.mycommon.pager;
+package io.github.canjiemo.mycommon.pager;
 
 /**
  * 分页处理器 - 统一管理分页对象的创建

@@ -9,7 +9,7 @@
     <!-- 必须和 GitHub 用户名一致 -->
     <groupId>io.github.canjiemo</groupId>
     <artifactId>mycommon</artifactId>
-    <version>1.0-jdk21</version>
+    <version>1.0.1-jdk21</version>
     <packaging>jar</packaging>
 
     <name>mycommon</name>
